@@ -1,0 +1,27 @@
+{
+  "name": "server_creation",
+  "version": "1.0.0",
+  "description": "Learning to create the Server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "start",
+    "nodemon",
+    "express",
+    "react",
+    "mongoose"
+  ],
+  "author": "Rieck_Ace",
+  "license": "ISC",
+
+  
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
